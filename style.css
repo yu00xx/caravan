@@ -1,4 +1,4 @@
-*{
+* {
   margin:0;
   padding:0;
   box-sizing:border-box;
@@ -16,7 +16,7 @@ header{
   text-align:center;
 }
 
-header.heading{
+header .heading{
   font-size:32px;
 }
 
@@ -46,6 +46,15 @@ header.heading{
   background-color:rgba(0,0,0,0.5);
   text-align:center;
   padding-top:105px;
+}
+
+.main-visual-text{
+  color:#fff;
+}
+
+.main-visual-name{
+  margin-top:30px;
+  color:#fff;
 }
 
 .main{
